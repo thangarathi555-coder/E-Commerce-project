@@ -1,16 +1,16 @@
 # E-Commerce project
 
-## 📖 Project Overview
+##  Project Overview
 The E-Commerce Order Management System (OMS) is designed to manage the complete order lifecycle, from customer checkout to product delivery and returns. The system helps businesses automate order processing, inventory management, shipping, and customer notifications.
 
-## 🎯 Objectives
+##  Objectives
 - Manage customer orders efficiently.
 - Track inventory in real time.
 - Process secure online payments.
 - Provide order tracking.
 - Handle product returns and refunds.
 
-## ✨ Features
+##  Features
 - User Registration & Login
 - Product Management
 - Shopping Cart
@@ -22,30 +22,30 @@ The E-Commerce Order Management System (OMS) is designed to manage the complete 
 - Admin Dashboard
 - Reports & Analytics
 
-## 🛠 Technologies
+## Technologies
 - Documentation: PDF
 - Language: Java / Python (Customizable)
 - Database: MySQL
 - Frontend: HTML, CSS, JavaScript
 - Backend: Spring Boot / Django / Node.js (Optional)
 
-## 👤 Actors
+##  Actors
 - Customer
 - Administrator
 - Payment Gateway
 - Delivery Partner
 
-## 📂 Project Files
+##  Project Files
 - Requirement Specification (PDF)
 - README.md
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 - AI-based product recommendations
 - Mobile application
 - Live delivery tracking
 - Chatbot support
 
-## 👨‍💻 Author
+##  Author
 **Thangarathi A**  
 BCA Student  
 Kamaraj College
