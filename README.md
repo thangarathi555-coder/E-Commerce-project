@@ -1,51 +1,78 @@
-# E-Commerce project
+# E-Commerce Order Management Database System
 
-##  Project Overview
-The E-Commerce Order Management System (OMS) is designed to manage the complete order lifecycle, from customer checkout to product delivery and returns. The system helps businesses automate order processing, inventory management, shipping, and customer notifications.
+## Project Overview
 
-##  Objectives
-- Manage customer orders efficiently.
-- Track inventory in real time.
-- Process secure online payments.
-- Provide order tracking.
-- Handle product returns and refunds.
+The **E-Commerce Order Management Database System** is a database project designed to manage online shopping operations efficiently. The system stores and manages customer details, products, orders, payments, shipments, suppliers, and reviews.
 
-##  Features
-- User Registration & Login
-- Product Management
-- Shopping Cart
-- Order Processing
-- Inventory Management
-- Payment Integration
-- Shipping & Order Tracking
-- Return & Refund Management
-- Admin Dashboard
-- Reports & Analytics
+## Objective
 
-## Technologies
-- Documentation: PDF
-- Language: Java / Python (Customizable)
-- Database: MySQL
-- Frontend: HTML, CSS, JavaScript
-- Backend: Spring Boot / Django / Node.js (Optional)
+* Analyze e-commerce business requirements.
+* Identify database entities and relationships.
+* Prepare requirement documents for database design.
+* Reduce data redundancy and improve data management.
 
-##  Actors
-- Customer
-- Administrator
-- Payment Gateway
-- Delivery Partner
+## Core Entities
 
-##  Project Files
-- Requirement Specification (PDF)
-- README.md
+The system contains the following entities:
 
-##  Future Enhancements
-- AI-based product recommendations
-- Mobile application
-- Live delivery tracking
-- Chatbot support
+* Customer
+* Category
+* Product
+* Supplier
+* Order
+* Order Details
+* Payment
+* Shipment
+* Review
 
-##  Author
-**Thangarathi A**  
-BCA Student  
-Kamaraj College
+## Major Business Processes
+
+* Customer Registration
+* Product Management
+* Inventory Tracking
+* Order Processing
+* Payment Management
+* Shipment Tracking
+* Customer Review Management
+
+## Documents Included
+
+```
+Week1/
+│── Requirement_Analysis_Report.pdf
+│── Business_Requirement_Document.pdf
+│── SRS_Document.pdf
+│── README.md
+```
+
+## Functional Requirements
+
+* Manage customer information.
+* Manage products and categories.
+* Process customer orders.
+* Track payments and shipments.
+* Store customer reviews.
+
+## Non-Functional Requirements
+
+* Security
+* Performance
+* Reliability
+* Scalability
+* Usability
+
+## Tools Used
+
+* SQL Database
+* GitHub
+* Documentation Tools
+
+## Author
+
+**A. Thangarathi**
+BCA Student
+
+## Conclusion
+
+This project analysis provides the foundation for designing and developing an E-Commerce Order Management Database System.
+
