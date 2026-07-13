@@ -1,4 +1,4 @@
-**Week - 1**
+# Week - 1
 # E-Commerce Order Management Database System
 
 ## Project Overview
